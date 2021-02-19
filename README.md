@@ -11,6 +11,9 @@ You may use any IDE you like for this project (we use PyCharm), but the automate
 2. Run `setup.bat`
 3. Work on the files in the subfolders (e.g. `prob1/exercise.py` is exercise 1)
 4. Run the batch file `check_solutions.bat` to check if your answer is correct
+   - Note: The script only alerts you when the answer is wrong.
+   - Example of correct answer:  
+   ![](https://i.imgur.com/x4lbz5j.png)
 
 ## Optional Tools
 These are optional software tools that we, ourselves, use.  
