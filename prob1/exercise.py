@@ -1,3 +1,9 @@
+"""Exercise 1 for 2D Lists
+
+@author KOOKIIE
+This is the first exercise for the series, and will require users to
+access 2D lists by directly referencing indices.
+"""
 # This series of exercise will focus on 2D lists in Python.
 # The general concept is applicable to most other languages as well.
 #
