@@ -7,6 +7,7 @@ You may use any IDE you like for this project (we use PyCharm), but the automate
 
 ### How To Use
 1. Make sure Python is installed
+   - If you have Chocolatey, you can just do `choco install python` to install Python
 2. Run `setup.bat`
 3. Work on the files in the subfolders (e.g. `prob1/exercise.py` is exercise 1)
 4. Run the batch file `check_solutions.bat` to check if your answer is correct
