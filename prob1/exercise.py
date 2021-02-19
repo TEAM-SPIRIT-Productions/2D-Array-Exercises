@@ -20,20 +20,20 @@
 # foobar = [[(0, 1), (0, 2), (0, 3)], [(1, 1), (1, 2), (1, 3)], [(2, 1), (2, 2), (2, 3)]]
 #
 # To access a list element, we use the [] operator, e.g. foobar[0]
-# When we perform foobar[x], we are accessing the x-th element.
+# When we perform foobar[x], we are accessing the (x-1)-th element.
 # Since each row is stored as a list inside of the list foobar,
-# this means that foobar[x] is the x-th row.
+# this means that foobar[x] is the (x-1)-th row.
 # To access the inner list, we can continue to use the [] operator.
-# Hence, foobar[x][y] corresponds to the x-th row and y-th column
+# Hence, foobar[x+1][y+1] corresponds to the x-th row and y-th column
 # E.g. foobar[1][2] will yield (1,2)
 
 
 # In this exercise, you are required to access elements of the list.
-# Write a function get_2_1 that takes a 2D list (my_list) and returns
-# the element that is at the 2nd row, 1st column
-def get_2_1(my_list):
-	element = 0
+# Write a function get_3_2 that takes a 2D list (my_list) and returns
+# the element that is at the 3rd row, 2nd column
+def get_3_2(my_list):
 	# You code goes here
+	element = 0
 	return element
 
 
