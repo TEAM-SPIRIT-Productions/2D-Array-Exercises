@@ -42,10 +42,10 @@ Alternatively, in a single line:
 foobar = [[(0, 0), (0, 1), (0, 2)], [(1, 0), (1, 1), (1, 2)], [(2, 0), (2, 1), (2, 2)]]
 ```
 
-To access a list element, we use the `[]` operator, e.g. foobar[0].  
+To access a list element, we use the index operator (`[]`), e.g. foobar[0].  
 When we perform `foobar[x]`, we are accessing the `(x-1)`-th element.  
 Since each row is stored as a list inside the list foobar, this means that `foobar[x]` is the `(x-1)`-th row.
-To access the inner list, we can continue to use the `[]` operator.  
+To access the inner list, we can continue to use the index operator.  
 Hence, `foobar[x+1][y+1]` corresponds to the `x`-th row and `y`-th column.  
 E.g. `foobar[1][2]` will yield `(1,2)`, since 2nd row index is `1`, and 3rd column index is `2`.
 
