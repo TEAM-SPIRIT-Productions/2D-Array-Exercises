@@ -6,9 +6,9 @@ You may use any IDE you like for this project (we use PyCharm), but the automate
 *We highly recommend Windows Terminal with PowerShell Core!*
 
 ### How To Use
-1. Clone the repository.
-  1.1 You can see [here](https://github.com/TEAM-SPIRIT-Productions/Lapis/wiki/How-To-Clone) for an example.
-  1.2 Use either of the following to clone if you're using the above guide, since said guide is from a different project:
+1. Clone the repository.  
+  1.1 You can see [here](https://github.com/TEAM-SPIRIT-Productions/Lapis/wiki/How-To-Clone) for an example.  
+  1.2 Use either of the following to clone if you're using the above guide, since said guide is from a different project:  
     - HTTPS: `https://github.com/TEAM-SPIRIT-Productions/2D-Array-Exercises.git`
     - SSH: `git@github.com:TEAM-SPIRIT-Productions/2D-Array-Exercises.git`
 2. Make sure Python is installed
