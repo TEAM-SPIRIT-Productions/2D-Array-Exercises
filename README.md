@@ -1,19 +1,24 @@
 # 2D-Array-Exercises
-A set of 2D array teaching tools
+This is a set of 2D array teaching tools. It is designed to be done as a solo project, to teach yourself 2D arrays.
 
 After installing Python 3.6+, run `setup.bat` in the repository folder to generate the venv with all dependencies.
 You may use any IDE you like for this project (we use PyCharm), but the automated checking scripts should be run from command line.  
 *We highly recommend Windows Terminal with PowerShell Core!*
 
 ### How To Use
-1. Make sure Python is installed
-   - If you have Chocolatey, you can just do `choco install python` to install Python
-2. Run `setup.bat`
-3. Work on the files in the subfolders (e.g. `prob1/exercise.py` is exercise 1)
-4. Run the batch file `check_solutions.bat` to check if your answer is correct
-   - Note: The script only alerts you when the answer is wrong.
-   - Example of correct answer:  
-   ![](https://i.imgur.com/x4lbz5j.png)
+1. Clone the repository.
+  1.1 You can see [here](https://github.com/TEAM-SPIRIT-Productions/Lapis/wiki/How-To-Clone) for an example.
+  1.2 Use either of the following to clone if you're using the above guide, since said guide is from a different project:
+    - HTTPS: `https://github.com/TEAM-SPIRIT-Productions/2D-Array-Exercises.git`
+    - SSH: `git@github.com:TEAM-SPIRIT-Productions/2D-Array-Exercises.git`
+2. Make sure Python is installed
+    - If you have Chocolatey, you can just do `choco install python` to install Python
+3. Run `setup.bat`
+4. Work on the files in the subfolders (e.g. `prob1/exercise.py` is exercise 1)
+5. Run the batch file `check_solutions.bat` to check if your answer is correct
+    - Note: The script only alerts you when the answer is wrong.
+    - Example of correct answer:  
+    ![](https://i.imgur.com/x4lbz5j.png)
 
 ## Optional Tools
 These are optional software tools that we, ourselves, use.  
@@ -46,11 +51,11 @@ We recommend using Chocolatey for installing software on Windows.
     - Enter either `y` or `a` when prompted, to allow Chocolatey to install
 
 
-![Windows Terminal + PowerShell Core](https://i.imgur.com/SfzE1FC.png)  
+![Windows Terminal + PowerShell Core (KOOKIIE)](https://i.imgur.com/SfzE1FC.png)  
 *Fig. 1: Sample for Windows Terminal + PowerShell Core (KOOKIIE)*  
 
-![](https://media.discordapp.net/attachments/799839206549225472/799889758457167872/062b17f5261e44f17c60dcf5610f4436.png)  
+![Windows Terminal + PowerShell Core (Brandon)](https://media.discordapp.net/attachments/799839206549225472/799889758457167872/062b17f5261e44f17c60dcf5610f4436.png)  
 *Fig. 2: Sample for Windows Terminal + PowerShell Core (Brandon)*  
 
-![](https://media.discordapp.net/attachments/729217437966270464/811426341010407444/1e1089ac9e7721d7d160d463bdafa95a.png)  
+![Windows Terminal + PowerShell Core (Brandon)](https://media.discordapp.net/attachments/729217437966270464/811426341010407444/1e1089ac9e7721d7d160d463bdafa95a.png)  
 *Fig. 3: Sample for Windows Terminal + PowerShell Core (Brandon)*  
