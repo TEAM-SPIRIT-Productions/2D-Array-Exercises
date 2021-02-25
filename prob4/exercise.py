@@ -9,3 +9,6 @@ you have a better solution.
 """
 
 
+# Exercise 4
+def scalar_product(input_list):
+	return
