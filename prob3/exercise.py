@@ -9,3 +9,22 @@ you have a better solution.
 """
 
 
+# Exercise 3a
+def square_list(number):
+	return
+
+
+# Exercise 3b
+def triangular_list(number):
+	return
+
+
+# Exercise 3c
+def cartesian(list_1, list_2):
+	return
+
+
+# Exercise 3d
+def process(input_list):
+	return
+
