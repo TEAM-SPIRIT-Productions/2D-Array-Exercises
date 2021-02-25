@@ -9,3 +9,21 @@ you have a better solution.
 """
 
 
+# Exercise 2a
+def sum_even_elements_in_first_row(unknown_list):
+	return
+
+
+# Exercise 2b
+def sum_even_elements(unknown_list):
+	return
+
+
+# Exercise 2c
+def product_of_sum(unknown_list):
+	return
+
+
+# Exercise 2c
+def sum_of_oddeven(unknown_list):
+	return
