@@ -1,5 +1,8 @@
 # 2D-Array-Exercises
-This is a set of 2D array teaching tools. It is designed to be done as a solo project, to teach yourself 2D arrays.
+This is a set of 2D-array teaching tools. It is designed to be done as a solo project, to teach yourself 2D arrays.  
+There are a total of 4 sets of exercises, intended to be completed in order, which will challenge you to access/mutate 2D Lists in a variety of situations, in Python.  
+*Note: This project assumes that you already have a basic understanding of how functions work!*  
+*You will be required to write your code inside of empty functions.*  
 
 After installing Python 3.6+, run `setup.bat` in the repository folder to generate the venv with all dependencies.
 You may use any IDE you like for this project (we use PyCharm), but the automated checking scripts should be run from command line.  
@@ -59,3 +62,12 @@ We recommend using Chocolatey for installing software on Windows.
 
 ![Windows Terminal + PowerShell Core (Brandon)](https://media.discordapp.net/attachments/729217437966270464/811426341010407444/1e1089ac9e7721d7d160d463bdafa95a.png)  
 *Fig. 3: Sample for Windows Terminal + PowerShell Core (Brandon)*  
+
+## AOB
+For any enquiries/bug reports/suggestions, feel free to file them at the [issues page](https://github.com/TEAM-SPIRIT-Productions/2D-Array-Exercises/issues) (preferred).  
+*You may alternatively contact the author at `KOOKIIE#9770` on Discord.*  
+
+### Disclaimer:
+*2D-Array-Exercises is an open-source set of [Koans](https://en.wikipedia.org/wiki/Koan) intended to be used as an educational tool. 2D-Array-Exercises is non-monetised, and provided as is. Every effort has been taken to ensure correctness and reliability at the time of release. We will not be liable for any special, direct, indirect, or consequential damages or any damages whatsoever resulting from loss of use, data or profits, whether in an action if contract, negligence or other tortious action, arising out of or in connection with the use of 2D-Array-Exercises (in part or in whole).*
+
+
