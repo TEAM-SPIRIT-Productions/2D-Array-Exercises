@@ -79,6 +79,6 @@ result = [
 Write a function `process` that when given a 2D list, for every element, if the next element is an even value, increment the current element's value by 1.  
 E.g.:
 ```py
-input_list = [1, 2, 3, 4, 5]
-output_list = [2, 2, 4, 4, 5]
+input_list = [[1, 2, 3, 4, 5]]
+output_list = [[2, 2, 4, 4, 5]]
 ```
